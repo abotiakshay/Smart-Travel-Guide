@@ -59,9 +59,7 @@
             android:name=".AddReminder"
             android:label="@string/title_activity_maps" />
 
-        <meta-data
-            android:name="com.google.android.geo.API_key"
-            android:value="AIzaSyBDAWd6Osx_lgAksMGuVW8xKBWY-QxIziw" />
+
 
         <activity android:name=".ReminderModify" />
         <activity android:name=".Notification" />
