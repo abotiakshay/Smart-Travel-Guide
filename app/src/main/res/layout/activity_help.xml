@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Help">
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:orientation="vertical"
+     android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        app:title="@string/help_support"
+        android:background="@color/mycolor"
+        app:titleTextAppearance="@style/stylefortitle"
+        app:titleTextColor="@color/white"
+        ></androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
+        android:layout_margin="10dp"
+        android:textSize="23sp"
+        android:text=" How to use Smart Travel Guide App ?"></TextView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_margin="10dp"
+        android:text="First user need to sign up into Smart Travel Guide App,then user can do many thinks listed below."
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="1. User can search any place on Map."></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/allerta"
+        android:text="2. User can see his/her current location on Map."></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="3. User can browse many travel places."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="4. User can make any place to his/her favourite place , and also user can see his/her favourite places on favourite Tap."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="5. User can Update his/her profile."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="6. User can also sign using google accounts."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="7. User can search a place in search bar"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:text="- search by place name :- matched place name will list."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/allerta"
+        android:text="- search by country  :- metched places in that country will list."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:text="- search by state :- metched places in that state  will list."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:text="- search by city :- metched places in that city will list."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:text="- search by Postal Code :- metched places in that Postal code  will list."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:text="- search by category of place:- metched places to that category will list."></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:text="How to Add Place in Smart Travel Guide App ?"
+        android:textSize="19sp"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="For that User need to follow steps listed below."
+        android:textStyle="bold"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+
+        android:layout_marginTop="5dp"
+        android:text="1> click on Add place from Navigation"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="2> User will redirect to Map"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="3> in the Map, Seach a place which you want to add in Smart Travel Guide App."></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="4> Long click on place"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="5> then ,Marker for that place will appear"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="6> Click on Marker of place to add place"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="7> Then provide name,description,Image to that place and click on Add place."></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:text="How to Add/Remove favourite place"
+        android:textSize="19sp"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="1> Search a place in search box"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="2> choose place"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/allerta"
+        android:text="3> Click on Heart shape "></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="4> To remove click again on Heart shape"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text=" ----- Important to note ------"
+        android:textSize="23sp"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allerta"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:text="User must use his/her email as his/her Username."
+        android:textStyle="bold"></TextView>
+   <View
+       android:layout_width="match_parent"
+  android:layout_marginTop="20dp"
+android:background="@color/black"
+      android:layout_marginLeft="10dp"
+       android:layout_marginRight="10dp"
+       android:layout_height="2dp"></View>
+
+    <Button
+        android:id="@+id/contactus"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/border_btn"
+        android:text="contact us"
+        app:backgroundTint="@null"></Button>
+ </LinearLayout>
+</ScrollView>

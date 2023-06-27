@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/header_background2"
+    android:gravity="center_horizontal"
+
+    android:orientation="vertical"
+    tools:context=".ShowTimeTable">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/allerta"
+        android:text="There are many Platform which allows the Online Booking of Flight, Railway, Bus"
+        android:textColor="@color/white"
+        android:textSize="30sp"></TextView>
+
+    <Button
+        android:id="@+id/flight"
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/border_btn2"
+        android:text="Online Book Flight"
+        android:textAllCaps="false"
+        app:backgroundTint="@null"></Button>
+
+    <Button
+        android:id="@+id/railway"
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/border_btn2"
+        android:padding="10dp"
+        android:text="Online Book Railway"
+
+        android:textAllCaps="false"
+        app:backgroundTint="@null"></Button>
+
+    <Button
+        android:id="@+id/bus"
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_btn2"
+        android:padding="10dp"
+        android:text="Online Book Bus"
+        android:textAllCaps="false"
+        app:backgroundTint="@null"></Button>
+
+</LinearLayout>

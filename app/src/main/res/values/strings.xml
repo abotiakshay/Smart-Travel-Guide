@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Smart Travel Guide</string>
+    <string name="sign_up"
+
+        >Sign up</string>
+    <string name="termtoast">For signing up, agree to the Smart Travel Guide terms &amp; conditions and privacy policy</string>
+    <string name="term_text">By signing up, you agree to the Smart Travel Guide terms &amp; conditions and privacy policy</string>
+    <string name="nav_open">Navigation open</string>
+    <string name="nav_close">Navigation close</string>
+    <string name="gallery">Your Gallery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapkey">AIzaSyDNe_8OlhMnxUzJej8AU8c3H9HahOTohX0</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="help_support"><![CDATA[Help & Support]]></string>
+    <string name="help_text"><![CDATA[--- How to use Smart Travel Guide App --- ? First user need to sign up into Smart Travel Guide App,then user can do many thinks listed below. 1.User can search any place on Map, 2. User can see his/her current location on Map, 3. User can browse many travel places, 4. User can make any place to his/her favourite place , and also user can see his/her favourite places on favourite Tap. 5. User can Update his/her profile 6. User can also sign using google accounts 6. User can search a place in search bar - search by place name :- matched place name will list. - search by country :- metched places in that country will list. - search by state :- metched places in that state will list. - search by city :- metched places in that city will list. - search by Postal Code :- metched places in that Postal code will list. - search by category of place:- metched places to that category will list. ---- How to Add Place in Smart Travel Guide App ? ---- For that User need to follow steps listed below. 1> click on Add place from Navigation 2> User will redirect to Map 2> in the Map, Seach a place which you want to add in Smart Travel Guide App, 3> Long click on place 3> then ,Marker for that place will appear 4> Click on Marker of place to add place 5> Then provide name,description,Image to that place and click on Add place. ---- How to Add/Remove place to favourite place ------ 1> Search a place in seach box 2> choose place 3> Click on Heart shape 4> to remove click again on Heart shape ----- Import to note. ------ User must use his/her email as his/her Username.]]></string>
+    <string name="howtousestg">First user need to sign up into Smart Travel Guide App,
+        then user can do many thinks listed below. 1.User can search any place on Map, 2. User can see his/her current location on Map, 3. User can browse many travel places, 4. User can make any place to his/her favourite place , and also user can see his/her favourite places on favourite Tap. 5. User can Update his/her profile 6. User can also sign using google accounts 6. User can search a place in search bar - search by place name :- matched place name will list. - search by country :- metched places in that country will list. - search by state :- metched places in that state will list. - search by city :- metched places in that city will list. - search by Postal Code :- metched places in that Postal code will list. - search by category of place:- metched places to that category will list.</string>
+    <string name="todo">TODO</string>
+</resources>
