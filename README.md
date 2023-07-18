@@ -11,7 +11,7 @@ Discover, save, and explore with "Smart Travel Guide" - the ultimate Android app
 - Add a place to your favourites
 
 ## SCREENSHOTS
-<div style="display: flex; flex-direction: row;">>
+<div style="display: flex; flex-direction: row;">
     <img src="https://github.com/abotiakshay/Smart-Travel-Guide/blob/11486e8d69fcebb09789f3a54f2d756b84e3e643/screenshots/2.png" width="250" />
     <img src="https://github.com/abotiakshay/Smart-Travel-Guide/blob/11486e8d69fcebb09789f3a54f2d756b84e3e643/screenshots/3.png" width="250" />
     <img src="https://github.com/abotiakshay/Smart-Travel-Guide/blob/11486e8d69fcebb09789f3a54f2d756b84e3e643/screenshots/1.png" width="250" />
